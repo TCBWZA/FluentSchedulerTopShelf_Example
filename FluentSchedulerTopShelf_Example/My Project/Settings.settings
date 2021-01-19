@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SchedulePauseBeforeFirstRunSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ScheduleRunSyncMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ScheduleMinTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="ScheduleMaxTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="ServiceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ServiceName</Value>
+    </Setting>
+    <Setting Name="ServiceDescription" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ServiceDescription</Value>
+    </Setting>
+    <Setting Name="ServiceDisplayName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ServiceDisplayName</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
